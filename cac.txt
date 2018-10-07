@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 fffpafkjehvdv
 fffpafkjeh
 123123123123
+=======
+fff
+>>>>>>> parent of 5207a4a... cac2
